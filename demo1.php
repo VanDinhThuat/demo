@@ -1,0 +1,1 @@
+<?php echo"bai bao cao ne"; ?> <? echo "";
